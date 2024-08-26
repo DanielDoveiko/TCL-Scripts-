@@ -4,5 +4,5 @@ authors:
   - family-names: Doveiko
     given-names: Daniel
     orcid: https://orcid.org/0000-0002-0516-689X
-title: "My Research Software"
+title: "TCL Scripts for MD Simulation Analysis"
 version: 1.0.0
